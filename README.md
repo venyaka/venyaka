@@ -14,18 +14,18 @@ _Learnind **Spring**..._
 -->
 ## My Skills
 
-<img width="148" alt="01 java" src="https://github.com/venyaka/venyaka/assets/112535019/c7975397-d958-47ab-9611-5f081e7897ab">
-<img width="148" alt="02 spring" src="https://github.com/venyaka/venyaka/assets/112535019/5adee285-7989-457d-bdd1-c9ce6b77a841">
-<img width="148" alt="03 html" src="https://github.com/venyaka/venyaka/assets/112535019/93c622b8-0d4d-4f8b-93d7-0eab536d5da5">
+<img width="148" alt="01 java" src="https://github.com/venyaka/venyaka/assets/112535019/a76a8814-859a-4aab-838e-d6be07d3d7ac">
+<img width="148" alt="02 spring" src="https://github.com/venyaka/venyaka/assets/112535019/86b7a09c-bb79-412a-9820-2b257d5b0d67">
+<img width="148" alt="03 html" src="https://github.com/venyaka/venyaka/assets/112535019/bd967960-7303-4d1d-a0d6-d90700965562">
 <img width="148" alt="04 css" src="https://github.com/venyaka/venyaka/assets/112535019/cf553b0d-d4a0-4a24-ae2f-2754c24e2a7f">
-<img width="148" alt="05 js" src="https://github.com/venyaka/venyaka/assets/112535019/bfae2e39-7fbf-4580-9da3-44ff5a9e0580">
-<img width="148" alt="06 python" src="https://github.com/venyaka/venyaka/assets/112535019/fa0ce351-c51c-410e-87ce-5fe29fa842cd">
-<img width="148" alt="07 postrge" src="https://github.com/venyaka/venyaka/assets/112535019/8f229d74-50ca-4109-b930-723b5aea8322">
-<img width="148" alt="08 github" src="https://github.com/venyaka/venyaka/assets/112535019/00278017-6742-4042-bb3c-9c8486977c20">
-<img width="148" alt="09 git" src="https://github.com/venyaka/venyaka/assets/112535019/b340b6d8-bc6b-40c2-8616-6549cf130d52">
-<img width="148" alt="10 OpenApi" src="https://github.com/venyaka/venyaka/assets/112535019/6462313c-68c2-4fc8-b282-882dcd2247c3">
-<img width="148" alt="11 swagger" src="https://github.com/venyaka/venyaka/assets/112535019/e641ba09-acb8-416b-807b-6d994a537e57">
-<img width="148" alt="12 hibernate" src="https://github.com/venyaka/venyaka/assets/112535019/15ea69f3-d5a4-46e9-a846-4e2cae3a3493">
+<img width="148" alt="05 js" src="https://github.com/venyaka/venyaka/assets/112535019/62f44ccc-1923-40ca-9db2-5c5da62f5840">
+<img width="148" alt="06 python" src="https://github.com/venyaka/venyaka/assets/112535019/28ea1d80-5d59-4927-9834-ba5a46019b50">
+<img width="148" alt="07 postrge" src="https://github.com/venyaka/venyaka/assets/112535019/94b8bdf0-5386-4892-9352-339a6c84059e">
+<img width="148" alt="08 github" src="https://github.com/venyaka/venyaka/assets/112535019/f306497f-8b40-4712-bbdc-2a383f79595c">
+<img width="148" alt="09 git" src="https://github.com/venyaka/venyaka/assets/112535019/35e2b0e1-243e-4b19-af66-57139d06b546">
+<img width="148" alt="10 OpenApi" src="https://github.com/venyaka/venyaka/assets/112535019/2c891bfa-cd96-4e9f-93eb-b20612d8ecf1">
+<img width="148" alt="11 swagger" src="https://github.com/venyaka/venyaka/assets/112535019/3a52f838-9fa4-496d-b63e-3891e9272d11">
+<img width="148" alt="12 hibernate" src="https://github.com/venyaka/venyaka/assets/112535019/7653cf91-6110-4bf7-85ad-8048938a1652">
 
 ## My Projects
 - #### [Travel Agency](https://github.com/venyaka/TravelAgency)
