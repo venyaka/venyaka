@@ -15,8 +15,8 @@ _Learnind **Spring**..._
 ## My Skills
 
 <img width="148" alt="01 java" src="https://github.com/venyaka/venyaka/assets/112535019/a76a8814-859a-4aab-838e-d6be07d3d7ac">
-<img width="148" alt="02 spring" src="https://github.com/venyaka/venyaka/assets/112535019/86b7a09c-bb79-412a-9820-2b257d5b0d67">
-<img width="148" alt="03 html" src="https://github.com/venyaka/venyaka/assets/112535019/bd967960-7303-4d1d-a0d6-d90700965562">
+<img width="148" alt="02 spring" src="https://github.com/venyaka/venyaka/assets/112535019/90455a5d-d94d-4b07-8a02-6ef79e882acb">
+<img width="148" alt="03 html" src="https://github.com/venyaka/venyaka/assets/112535019/86b7a09c-bb79-412a-9820-2b257d5b0d67">
 <img width="148" alt="04 css" src="https://github.com/venyaka/venyaka/assets/112535019/cf553b0d-d4a0-4a24-ae2f-2754c24e2a7f">
 <img width="148" alt="05 js" src="https://github.com/venyaka/venyaka/assets/112535019/62f44ccc-1923-40ca-9db2-5c5da62f5840">
 <img width="148" alt="06 python" src="https://github.com/venyaka/venyaka/assets/112535019/28ea1d80-5d59-4927-9834-ba5a46019b50">
