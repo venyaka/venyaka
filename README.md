@@ -27,8 +27,8 @@ I'm studie at __QazDev__
 
 ## My Projects
 - #### [Travel Agency](https://github.com/venyaka/Atelie)
-- #### [Online Wallet](https://github.com/venyaka/Polyclinic)
-- #### [Online Wallet](https://github.com/venyaka/Tasks-app)
-- #### [Online Wallet](https://github.com/venyaka/PaymentOS-for-DAOs)
-- #### [Online Wallet](https://github.com/venyaka/IT-Prom)
-- #### [Online Wallet](https://github.com/venyaka/TaskPlanner)
+- #### [Polyclinic](https://github.com/venyaka/Polyclinic)
+- #### [Tasks-app](https://github.com/venyaka/Tasks-app)
+- #### [PaymentOS-for-DAOs](https://github.com/venyaka/PaymentOS-for-DAOs)
+- #### [IT-Prom](https://github.com/venyaka/IT-Prom)
+- #### [TaskPlanner](https://github.com/venyaka/TaskPlanner)
