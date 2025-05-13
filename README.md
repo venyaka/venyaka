@@ -26,9 +26,10 @@ I'm studie at __QazDev__
 <img width="148" alt="12 hibernate" src="https://github.com/venyaka/venyaka/assets/112535019/7653cf91-6110-4bf7-85ad-8048938a1652">
 
 ## My Projects
-- #### [Travel Agency](https://github.com/venyaka/Atelie)
+- #### [Atelie](https://github.com/venyaka/Atelie)
 - #### [Polyclinic](https://github.com/venyaka/Polyclinic)
 - #### [Tasks-app](https://github.com/venyaka/Tasks-app)
 - #### [PaymentOS-for-DAOs](https://github.com/venyaka/PaymentOS-for-DAOs)
+- #### [Travel-Agency](https://github.com/venyaka/Travel-agency)
 - #### [IT-Prom](https://github.com/venyaka/IT-Prom)
 - #### [TaskPlanner](https://github.com/venyaka/TaskPlanner)
