@@ -30,6 +30,6 @@ I'm studie at __QazDev__
 - #### [Polyclinic](https://github.com/venyaka/Polyclinic)
 - #### [Tasks-app](https://github.com/venyaka/Tasks-app)
 - #### [PaymentOS-for-DAOs](https://github.com/venyaka/PaymentOS-for-DAOs)
-- #### [Travel-Agency](https://github.com/venyaka/Travel-agency)
+- #### [TravelAgency](https://github.com/venyaka/TravelAgency)
 - #### [IT-Prom](https://github.com/venyaka/IT-Prom)
 - #### [TaskPlanner](https://github.com/venyaka/TaskPlanner)
