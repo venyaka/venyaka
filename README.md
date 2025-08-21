@@ -29,7 +29,6 @@ I'm studie at __QazDev__
 - #### [Atelie](https://github.com/venyaka/Atelie)
 - #### [Polyclinic](https://github.com/venyaka/Polyclinic)
 - #### [Tasks-app](https://github.com/venyaka/Tasks-app)
-- #### [PaymentOS-for-DAOs](https://github.com/venyaka/PaymentOS-for-DAOs)
 - #### [TravelAgency](https://github.com/venyaka/TravelAgency)
 - #### [IT-Prom](https://github.com/venyaka/IT-Prom)
 - #### [TaskPlanner](https://github.com/venyaka/TaskPlanner)
