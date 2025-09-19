@@ -4,9 +4,14 @@
 I 💜 **Backend**.
 -->
 Hello! I'm Backend developer, and I love it!
-
 <!--
 ### Just take a look at [my CV](https://)!
+-->
+## My Projects
+- #### [Bank_REST](https://github.com/venyaka/Bank_REST)
+- #### [Shop](https://github.com/venyaka/Shop)
+- #### [Atelie](https://github.com/venyaka/Atelie)
+
 
 ## My Skills
 
@@ -22,8 +27,3 @@ Hello! I'm Backend developer, and I love it!
 <img width="148" alt="08 github" src="https://github.com/venyaka/venyaka/assets/112535019/f306497f-8b40-4712-bbdc-2a383f79595c">
 <img width="148" alt="10 OpenApi" src="https://github.com/venyaka/venyaka/assets/112535019/2c891bfa-cd96-4e9f-93eb-b20612d8ecf1">
 <img width="148" alt="12 hibernate" src="https://github.com/venyaka/venyaka/assets/112535019/7653cf91-6110-4bf7-85ad-8048938a1652">
--->
-## My Projects
-- #### [Bank_REST](https://github.com/venyaka/Bank_REST)
-- #### [Shop](https://github.com/venyaka/Shop)
-- #### [Atelie](https://github.com/venyaka/Atelie)
