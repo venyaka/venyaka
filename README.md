@@ -5,8 +5,6 @@ I 💜 **Backend**.
 -->
 Hello! I'm Backend developer, and I love it!
 
-I'm studie at __QazDev__
-
 <!--
 ### Just take a look at [my CV](https://)!
 -->
