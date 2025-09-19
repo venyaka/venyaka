@@ -26,9 +26,6 @@ I'm studie at __QazDev__
 <img width="148" alt="12 hibernate" src="https://github.com/venyaka/venyaka/assets/112535019/7653cf91-6110-4bf7-85ad-8048938a1652">
 
 ## My Projects
+- #### [Bank_REST](https://github.com/venyaka/Bank_REST)
+- #### [Shop](https://github.com/venyaka/Shop)
 - #### [Atelie](https://github.com/venyaka/Atelie)
-- #### [Polyclinic](https://github.com/venyaka/Polyclinic)
-- #### [Tasks-app](https://github.com/venyaka/Tasks-app)
-- #### [TravelAgency](https://github.com/venyaka/TravelAgency)
-- #### [IT-Prom](https://github.com/venyaka/IT-Prom)
-- #### [TaskPlanner](https://github.com/venyaka/TaskPlanner)
