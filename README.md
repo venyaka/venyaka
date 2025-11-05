@@ -27,3 +27,18 @@ Hello! I'm Backend developer, and I love it!
 <img width="148" alt="08 github" src="https://github.com/venyaka/venyaka/assets/112535019/f306497f-8b40-4712-bbdc-2a383f79595c">
 <img width="148" alt="10 OpenApi" src="https://github.com/venyaka/venyaka/assets/112535019/2c891bfa-cd96-4e9f-93eb-b20612d8ecf1">
 <img width="148" alt="12 hibernate" src="https://github.com/venyaka/venyaka/assets/112535019/7653cf91-6110-4bf7-85ad-8048938a1652">
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/venyaka">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venyaka&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/venyaka">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=venyaka&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Veniamin's GitHub Stats" />
+</a>
+
+<br>
+<br>
