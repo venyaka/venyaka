@@ -1,12 +1,11 @@
-# Veniamin Ilkov
-### Backend developer
-<!--
-I 💜 **Backend**.
--->
-Hello! I'm Backend developer, and I love it!
-<!--
-### Just take a look at [my CV](https://)!
--->
+![IMG_20251105_143302_507~2](https://github.com/user-attachments/assets/a7a538ba-c04d-4a10-a1aa-cddffe19fe5c)
+
+[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-informational?style=flat&logo=telegram&logoColor=white&color=1CA2F1)](https://t.me/Vdohno_venya)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=Instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/vdohno_venya)
+
+#### I'm Java Backend developer
+
+
 ## My Projects
 - #### [Bank_REST](https://github.com/venyaka/Bank_REST)
 - #### [Shop](https://github.com/venyaka/Shop)
@@ -28,17 +27,3 @@ Hello! I'm Backend developer, and I love it!
 <img width="148" alt="10 OpenApi" src="https://github.com/venyaka/venyaka/assets/112535019/2c891bfa-cd96-4e9f-93eb-b20612d8ecf1">
 <img width="148" alt="12 hibernate" src="https://github.com/venyaka/venyaka/assets/112535019/7653cf91-6110-4bf7-85ad-8048938a1652">
 
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/venyaka">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venyaka&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/venyaka">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=venyaka&show_icons=true&line_height=27&count_private=true&cache_seconds=1&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Veniamin's GitHub Stats" />
-</a>
-
-<br>
-<br>
