@@ -15,6 +15,7 @@ I’m Veniamin, a passionate Java backend developer who loves building scalable,
 - #### [Shop](https://github.com/venyaka/Shop)
 - #### [Atelie](https://github.com/venyaka/Atelie)
 
+
 ## GitHub Stats
 
 <br>
@@ -31,7 +32,6 @@ I’m Veniamin, a passionate Java backend developer who loves building scalable,
 </a>
 
 
-<br>
 <br>
 
 ## My Skills
