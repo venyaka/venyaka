@@ -2,7 +2,7 @@
 
 [![Telegram](https://img.shields.io/badge/Telegram-1CA2F1?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Vdohno_venya)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vdohno_venya)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/DWZ5FH4L66EAP1)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilkovveniamin@gmail.com)
 
 
@@ -54,8 +54,6 @@ I’m Veniamin, a passionate Java backend developer who loves building scalable,
   ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![](https://img.shields.io/badge/Vue.js-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white)
   
-  ![](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-  ![](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 </details>
 
 
