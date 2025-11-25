@@ -12,8 +12,6 @@ I’m Veniamin, a passionate Java backend developer who loves building scalable,
 
 ## My Projects
 - #### [Bank_REST](https://github.com/venyaka/Bank_REST)
-- #### [Shop](https://github.com/venyaka/Shop)
-- #### [Atelie](https://github.com/venyaka/Atelie)
 
 
 ## GitHub Stats
