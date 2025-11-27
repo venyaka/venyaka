@@ -20,12 +20,12 @@ I’m Veniamin, a passionate Java backend developer who loves building scalable,
 
 <a href="https://github.com/venyaka">
   <img align="center" style="margin:0.5rem" 
-       src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=venyaka&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=007ACC&bg_color=0A192F" />
+       src="https://github-readme-stats-teal-nine-55.vercel.app/api/top-langs/?username=venyaka&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=007ACC&bg_color=0A192F" />
 </a>
 
 <a href="https://github.com/venyaka">
   <img align="center" style="margin:0.5rem" 
-       src="https://github-readme-stats-one.vercel.app/api?username=venyaka&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=007ACC&bg_color=0A192F" 
+       src="https://github-readme-stats-teal-nine-55.vercel.app/api?username=venyaka&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=007ACC&bg_color=0A192F" 
        alt="Veniamin's GitHub Stats" />
 </a>
 
