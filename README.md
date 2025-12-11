@@ -11,7 +11,7 @@ Hey there 👋
 I’m Veniamin, a passionate Java backend developer who loves building scalable, reliable, and secure applications. I focus on crafting clean architecture, efficient APIs, and seamless integrations that power real-world products. My goal is to turn complex business logic into elegant, maintainable backend solutions that just work.
 
 ## My Projects
-- #### [Bank_REST](https://github.com/venyaka/Bank_REST)
+- #### [Bank_REST](https://github.com/venyaka/Bank_REST) - template for the banking backend
 
 
 ## GitHub Stats
